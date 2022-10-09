@@ -12,8 +12,6 @@
 
 - 👯 I'm looking to collaborate on C#, JavaScript, and python projects. 
 
-- 🤔 I’m looking for help with debugging my CV.
-
 
 ### Other places you can find me:
 - [LeetCode][leetcode]
