@@ -20,10 +20,12 @@
 - [CodeChef][codechef]
 - [HackerRank][hackerrank]
 - [CodePen][codepen]
+- [GeeksForGeeks][gfg]
 
 [leetcode]: https://leetcode.com/yanina-nas/
 [codechef]: https://www.codechef.com/users/sia_ch
 [hackerrank]: https://www.hackerrank.com/plainwhiteyoghu1
 [codepen]: https://codepen.io/yanina-nas
+[gfg]: https://auth.geeksforgeeks.org/user/plainwhiteyoghurt
 
 ### Thanks for stopping by.
