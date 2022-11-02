@@ -12,7 +12,7 @@
 
 - 👯 I'm looking to collaborate on C#, JavaScript, and python projects. 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/yanina-nas?cache=0?theme=dark&font=Poppins&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yanina-nas?cache=0?theme=dark&font=Poppins&ext=heatmap)
 
 ### Other places you can find me:
 - [LeetCode][leetcode]
