@@ -6,7 +6,7 @@
 
 - 💬 Ask me about a sophisticated algorithm you'd normally expect from someone with a CS degree. 
 
-- 🦾 In my previous life I was a professional rower with academical background in medicine.
+- 🦾 In my previous life I was a professional rower with academic background in medicine.
 
 - 🌱 I’m currently learning web development, machine learning, and competitive programming.
 
