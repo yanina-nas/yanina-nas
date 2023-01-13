@@ -2,7 +2,7 @@
 
 - 🫀 I’m a self-taught software engineer based in sunny Brussels, Belgium. 
 
-- 🔭 I'm currently looking for a full-time junior developer position.
+- 🔭 I'm currently working full-time for Bingli.
 
 - 💬 Ask me about a sophisticated algorithm you'd normally expect from someone with a CS degree. 
 
