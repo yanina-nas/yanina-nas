@@ -1,12 +1,8 @@
-### Hi! I'm Nastya.
+#### Hi! I'm Nastia.
 
-- 🫀 I’m a junior full stack software engineer working at Bingli.
+I’m a junior full stack software engineer based in Brussels, Belgium. My background is professional rowing and medicine.
 
-- 🔭 I'm currently enjoying sunny weather here in Brussels, Belgium. 
-
-- 🦾 In my previous life I was a professional rower with academic background in medicine.
-
-### Other places you can find me:
+#### Other places you can find me:
 - [LeetCode][leetcode]
 - [CodeChef][codechef]
 - [HackerRank][hackerrank]
@@ -17,4 +13,4 @@
 [hackerrank]: https://www.hackerrank.com/plainwhiteyoghu1
 [gfg]: https://auth.geeksforgeeks.org/user/plainwhiteyoghurt
 
-### Thanks for stopping by.
+#### Thanks for stopping by.
