@@ -1,6 +1,6 @@
 ### Hi! I'm Nastya.
 
-- 🫀 I’m a junior full stack software engineer working full-time for Bingli.
+- 🫀 I’m a junior full stack software engineer working at Bingli.
 
 - 🔭 I'm currently enjoying sunny weather here in Brussels, Belgium. 
 
