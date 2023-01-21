@@ -6,9 +6,6 @@
 
 - 🦾 In my previous life I was a professional rower with academic background in medicine.
 
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yanina-nas?cache=0?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/yanina-nas/)
-
 ### Other places you can find me:
 - [LeetCode][leetcode]
 - [CodeChef][codechef]
