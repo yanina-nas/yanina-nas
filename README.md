@@ -1,6 +1,6 @@
 #### Hi! I'm Nastia.
 
-I’m a junior full stack software engineer based in Brussels, Belgium. My background is professional rowing and medicine.
+I’m a full stack software engineer with background in professional rowing and medicine, currently living in Brussels, Belgium.
 
 #### Other places you can find me:
 - [LeetCode][leetcode]
